@@ -5,14 +5,14 @@
 [![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq)
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq?branch=master)
 [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)
-[![Open Source Helpers](https://www.codetriage.com/manageiq/manageiq/badges/users.svg)](https://www.codetriage.com/manageiq/manageiq)
+](https://www.codetriage.com/manageiq/manageiq/badges/users.svg)](https://www.codetriage.com/manageiq/manageiq)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Translate](https://img.shields.io/badge/translate-transifex-blue.svg)](https://www.transifex.com/manageiq/manageiq/dashboard/)
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&includeBuildsFromPullRequest=false&buildCount=50)](https://travis-ci.org/ManageIQ/manageiq/branches)
+](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&includeBuildsFromPullRequest=false&buildCount=50)](https://travis-ci.org/ManageIQ/manageiq/branches)
 
 ## Discover, Optimize, and Control your Hybrid IT
 
@@ -37,9 +37,9 @@ IT environments.  It has the following feature sets:
 
 *  [**Read** developer guides](https://github.com/ManageiQ/guides)
 *  [**Chat** with contributors on Gitter](https://gitter.im/ManageIQ/manageiq)
-*  [**File or view bug reports and feature requests** using Issues on Github](https://github.com/ManageIQ/manageiq/issues?state=open)
+(https://github.com/ManageIQ/manageiq/issues?state=open)
 *  [**Ask** questions of ManageIQ experts](http://talk.manageiq.org/)
-*  [**Discuss** ManageIQ with developers and power users](http://talk.manageiq.org/)
+](http://talk.manageiq.org/)
 
 We respectfully ask that you do not directly email any manageiq committers with
 questions or problems. The community is best served when discussions are held in
